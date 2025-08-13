@@ -6,7 +6,7 @@ import api from '../../services/api'
 
 import './style.css'
 
-import logoImg from '../../assents/logo.svg'
+import logoImg from '../../assets/logo.svg'
 
 
 export default function Profile() {
