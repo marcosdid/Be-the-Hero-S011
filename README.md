@@ -19,7 +19,7 @@
   <strong>Back-End</strong>
   <ul>
     <li>NodeJS</li>
-    <li>EXpress</li>
+    <li>Express</li>
     <li>SQLite</li>
     <li>Knex</li>
     <li>Celebrate</li>
@@ -31,10 +31,10 @@
 <li>
   <strong>Mobile</strong>
   <ul> 
-    <li>ReactNative</li>
+    <li>React Native</li>
     <li>Expo</li>
     <li>Axios</li>
-    <li>tarn</li>
+    <li>Yarn</li>
     <li>Babel</li>
   </ul>
 </li>
