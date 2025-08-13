@@ -49,7 +49,7 @@ export default function NewIncidents() {
                     <p>Descreva o caso detalhadamente para encontrar um heroi para resolver isso.</p>
 
                     <Link className='back-link' to="/profile">
-                        <FiArrowLeft size={16} color="E02041" />
+                        <FiArrowLeft size={16} color="#E02041" />
                         Voltar para home
                     </Link>
                 </section>
